@@ -148,24 +148,19 @@
 				"align": "left",
 				"links": [
 					{
-						"name": "MDN",
+						"name": "Github",
 						"url": "https://cancellek.com",
 						"icon": "mdi:web"
 					},
 					{
-						"name": "CSSBattle",
+						"name": "MDN",
 						"url": "https://keybase.io/",
 						"icon": "fa-brands:keybase"
 					},
 					{
-						"name": "Twitter",
+						"name": "CSSBattles",
 						"url": "https://chat.openai.com/",
 						"icon": "simple-icons:openai"
-					},
-					{
-						"name": "Bluesky",
-						"url": "https://www.oracle.com/cloud/",
-						"icon": "simple-icons:oracle"
 					}
 				]
 			}
